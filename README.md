@@ -10,4 +10,7 @@ En el caso de evolución generico, lo que se tiene es un estado cuántico
 que no corresponde a un estado físico real. El estado generado corresponde
 a un cuadrado \omega_sX \omega_i. Para poder usar un estado físico
 generado por un cristal no lineal con el efecto SPDC, es necesario correr
-el programa JSI
+el programa JSI_biaxial_2_trian_sinnxt.m.
+En el código de estos programas se incluyen comentarios que explican su 
+funcionamiento.
+
